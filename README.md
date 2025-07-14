@@ -13,7 +13,7 @@ esta atividade tem como foco a construção manual de uma Tabela Hash, respeitan
 princípios de Tipo de Dado Abstrato (TDA), sem o uso de bibliotecas nativas da linguagem Java.
 
 O projeto simula as operações básicas de inserção, remoção, busca e impressão, com leitura de 
-comandos a partir de um arquivo th.txt, registrando os resultados e eventos (como colisões e redimensionamentos)
+comandos a partir de um arquivo th.txt, registrando os resultados e eventos
 em saida.txt.
 ------------------------------------
 REQUISITOS E FUNCIONALIDADES
