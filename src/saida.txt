@@ -1,0 +1,16 @@
+Colisão na posição 5, nova posição 5
+
+Redimensionando de 10 para 20
+
+--; --; --; 10; --; 15; --; --; 12; --; 17; 22; 1; 14; 19; 11; --; --; --; 21;
+
+Colisão na posição 10, nova posição 10
+
+Removido com sucesso
+
+Colisão na posição 5, nova posição 5
+
+--; --; --; 10; --; 15; 70; --; --; 12; --; 17; 30; 22; 1; 14; 19; 11; --; --; --; --;
+
+Valor 12 encontrado no bucket 8
+
